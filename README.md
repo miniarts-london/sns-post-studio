@@ -49,3 +49,4 @@ After that, generate a draft, pick a photo, then **Post to LinkedIn** and/or **P
 - It does not post as a LinkedIn company page (`w_organization_social` needs extra LinkedIn approval).
 - It does not post to a personal Facebook profile.
 - It does not scrape LinkedIn or Facebook or drive those websites.
+# sns-post-studio
